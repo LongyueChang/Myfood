@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_knowledge_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:src="@mipmap/image" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="QA" />
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="2dp"
+        android:layout_marginTop="10dp"
+        android:background="#B5A642" />
+
+    <TextView
+        android:id="@+id/tv_knowledge_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="清酒王子如何收服一只张牙舞爪的大闸蟹" />
+
+    <TextView
+        android:id="@+id/tv_knowledge_abstract"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="清酒配蟹指南"
+        android:textColor="#cdcdcd" />
+
+
+</LinearLayout>

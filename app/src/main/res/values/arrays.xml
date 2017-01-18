@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clubTitle">
+        <item>视频</item>
+        <item>榜单</item>
+        <item>知识</item>
+        <item>人文</item>
+        <item>地图</item>
+        <item>活动</item>
+    </string-array>
+    <string-array name="TagTitle">
+        <item>全部</item>
+        <item>销量</item>
+        <item>价格</item>
+        <item>时间</item>
+    </string-array>
+    <string-array name="tagName">
+        <item>零食</item>
+        <item>酒</item>
+        <item>秋冬之选</item>
+        <item>食谱</item>
+        <item>日本进口</item>
+        <item>土产之味</item>
+        <item>礼</item>
+        <item>文创</item>
+    </string-array>
+</resources>

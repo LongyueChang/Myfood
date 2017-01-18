@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center">
+    <TextView
+        android:id="@+id/tv_shopQuery_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="元气暖身指南" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="2dp"
+        android:layout_marginTop="10dp"
+        android:background="#000000" />
+    <TextView
+        android:id="@+id/tv_shopQuery_english"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        android:text="SELECTED TOPICS "
+        android:textColor="#cdcdcd" />
+
+    <ImageView
+        android:id="@+id/iv_shopQuery_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitXY"
+        android:src="@mipmap/image" />
+
+
+</LinearLayout>

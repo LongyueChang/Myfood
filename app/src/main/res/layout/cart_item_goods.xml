@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:gravity="center_vertical"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/iv_cartGoods_check"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:src="@mipmap/btn_choose_normal" />
+    <ImageView
+        android:id="@+id/iv_cartGoods_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/iv_cartGoods_check"
+        android:scaleType="fitXY"
+        android:src="@mipmap/image" />
+    <TextView
+        android:id="@+id/tv_cartGoods_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/iv_cartGoods_image"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#cdcdcd"
+        android:text="悦食家"
+        />
+    <LinearLayout
+        android:id="@+id/ll_cartGoods_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@id/iv_cartGoods_image"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:gravity="center_vertical">
+        <ImageView
+            android:id="@+id/iv_cartGoods_cut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/cart_numview_left_pre"/>
+        <TextView
+            android:id="@+id/tv_cartGoods_sum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:textSize="15dp"
+            android:text="1"/>
+        <ImageView
+            android:id="@+id/iv_cartGoods_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/cart_numview_right_pre"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tv_cartGoods_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/iv_cartGoods_image"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="#cdcdcd"
+        android:text="¥12.00"
+        />
+    <TextView
+        android:id="@+id/tv_cartGoods_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="#cdcdcd"
+        android:text="×2"
+        />
+    <ImageView
+        android:id="@+id/iv_cartGoods_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"
+        android:src="@mipmap/ic_cart_del" />
+
+
+</RelativeLayout>

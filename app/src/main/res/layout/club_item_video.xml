@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <io.vov.vitamio.widget.VideoView
+            android:id="@+id/vv_club_video"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:id="@+id/iv_video_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/image"
+            android:scaleType="fitXY"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+        <TextView
+            android:id="@+id/tv_video_tag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@android:drawable/ic_media_play"
+            android:textColor="#ffffff"
+            android:textSize="10sp"
+            android:text="闸蟹清酒"/>
+        </LinearLayout>
+    </FrameLayout>
+
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="2dp"
+        android:background="#B5A642"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:id="@+id/tv_video_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="清酒王子如何收服一只张牙舞爪的大闸蟹"/>
+    <TextView
+        android:id="@+id/tv_video_abstract"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textColor="#cdcdcd"
+        android:text="清酒配蟹指南"/>
+
+
+
+</LinearLayout>

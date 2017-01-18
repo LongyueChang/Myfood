@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\androidStudio\\fanwen\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\work\\utils\\Yuefoodhome\\pullToRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]
